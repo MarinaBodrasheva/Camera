@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CameraSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "--Name 801"
+    }
+  }
+}

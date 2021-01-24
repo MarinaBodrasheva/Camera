@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CameraSearchService": {
+      "commandName": "Project",
+      "commandLineArgs": "--Name = \"Water\""
+    }
+  }
+}
